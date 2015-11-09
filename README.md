@@ -1,2 +1,2 @@
 # Fetchr-Api-OpenCart
-Fetchr Api OpenCart integration
+Fetchr OpenCart Shipping Integration
