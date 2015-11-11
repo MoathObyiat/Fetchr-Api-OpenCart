@@ -66,5 +66,5 @@ Download opencart extension file from here http://support.fetchr.us/hc/en-us/art
 
     ##### Click below link to Download the Document:
 
-    [OpenCart-API-Extension_InstallationGuide_V1.0.pdf (200 KB)](http://support.fetchr.us/hc/en-us/article_attachments/202237701/OpenCart-API-Extension_InstallationGuide_V1.0.pdf)
+    [OpenCart-API-Extension_InstallationGuide_V1.0.0.pdf (200 KB)](http://support.fetchr.us/hc/en-us/article_attachments/202237701/OpenCart-API-Extension_InstallationGuide_V1.0.pdf)
     
