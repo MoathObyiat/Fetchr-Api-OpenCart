@@ -21,7 +21,8 @@ Fetchr API extension in Opencart will improve your customer shopping experience 
 
 Extension Download
 
-Download opencart extension file from here http://support.fetchr.us/hc/en-us/articles/205732391-Opencart-Extension-V1-0
+Download opencart extension file from here 
+[http://support.fetchr.us/hc/en-us/articles/205732391-Opencart-Extension-V1.0.0](http://support.fetchr.us/hc/en-us/articles/205732391-Opencart-Extension-V1-0)
 
 # 2.2 Installation Steps
 
